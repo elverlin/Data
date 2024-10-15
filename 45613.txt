@@ -1,2 +1,2 @@
-1:VOSTFR:https://video.sibnet.ru/shell.php?videoid=4344356.mp4
-2:VOSTFR:https://video.sibnet.ru/shell.php?videoid=4344845.mp4
+1:VOSTFR:https://video.sibnet.ru/shell.php?videoid=4674687.mp4
+2:VOSTFR:https://video.sibnet.ru/shell.php?videoid=4675207.mp4
